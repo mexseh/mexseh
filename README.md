@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm Pavan S</h1>
-<h3 align="center">Passionate self-taught frontend developer with a strong foundation in core programming: Java, C++, DSA</h3><br>
+<h3 align="center">Passionate self-taught frontend developer with a strong foundation in programming fundamentals</h3><br>
 
 - 🔭 I'm currently working on a project exploring innovative pedagogical approaches in educational technology.
 - 🌱 I’m learning **React and exploring backend basics with Node.js**
