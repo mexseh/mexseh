@@ -3,6 +3,7 @@
 
 - 🔭 I'm currently working on a project exploring innovative pedagogical approaches in educational technology.
 - 🌱 I’m learning **React and exploring backend basics with Node.js**
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mexseh&label=Profile%20views&color=1E90FF&style=flat" alt="mexseh" /> </p>
 
