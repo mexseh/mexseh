@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Pavan S</h1>
 <h3 align="center">A passionate self-taught frontend developer.</h3>
 
-- <h2>🔭 I'm currently working on a project exploring innovative pedagogical approaches in educational technology.</h2>
-- <h2>🌱 I’m learning **React and exploring backend basics with Node.js**</h2>
+- 🔭 I'm currently working on a project exploring innovative pedagogical approaches in educational technology.
+- 🌱 I’m learning **React and exploring backend basics with Node.js**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mexseh&label=Profile%20views&color=00e1ff&style=flat" alt="mexseh" /> </p>
 
