@@ -6,6 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mexseh&label=Profile%20views&color=00e1ff&style=flat" alt="mexseh" /> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mexseh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-s-7503a7350) 
 
@@ -16,6 +19,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=mexseh&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mexseh&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mexseh&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mexseh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
