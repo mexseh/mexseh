@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Pavan S</h1>
-<h3 align="center">A passionate self-taught frontend developer.</h3>
+# 💫 Hi 👋, I'm Pavan S
+<center>A passionate self-taught frontend developer.</center>
 
 - 🔭 I'm currently working on a project exploring innovative pedagogical approaches in educational technology.
 - 🌱 I’m learning **React and exploring backend basics with Node.js**
@@ -9,6 +9,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mexseh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials
