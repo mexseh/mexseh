@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Pavan S
-<center>A passionate self-taught frontend developer.</center>
+<h1 align = "center">💫 Hi 👋, I'm Pavan S</h1>
+<h3 align ="center">A passionate self-taught frontend developer.</h3>
 
 - 🔭 I'm currently working on a project exploring innovative pedagogical approaches in educational technology.
 - 🌱 I’m learning **React and exploring backend basics with Node.js**
