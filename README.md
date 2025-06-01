@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on a project exploring innovative pedagogical approaches in educational technology.
 - 🌱 I’m learning **React and exploring backend basics with Node.js**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mexseh&label=Profile%20views&color=00e1ff&style=flat" alt="mexseh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mexseh&label=Profile%20views&color=1E90FF&style=flat" alt="mexseh" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mexseh&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
